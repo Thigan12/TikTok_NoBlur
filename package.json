@@ -1,7 +1,12 @@
 {
-    "name": "noblur",
+    "name": "tiktok_noblur",
     "version": "2.6.0",
     "type": "module",
+    "author": "R.THIGAMPARAN",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Thigan12/TikTok_NoBlur.git"
+    },
     "scripts": {
         "generate-changelog": "node scripts/generate-changelog.mjs",
         "dev": "vite",
